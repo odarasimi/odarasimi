@@ -1,4 +1,4 @@
-### Hi, I'm Anu
+### Hello, I'm Anu :)
 
 - ⚡ I'm interested in : ML, Signal processing, Computer Vision, Parallel computing, RISC-V, Linear Algebra, Geometry🍩, Breadboards, Calculus📉 
 - 🌱 I’m currently working on : ML, RISC-V
